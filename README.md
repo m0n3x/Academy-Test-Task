@@ -1,1 +1,1 @@
-# Konstantin-Semenenko-Academy-Test-Task
+# Academy-Test-Task
